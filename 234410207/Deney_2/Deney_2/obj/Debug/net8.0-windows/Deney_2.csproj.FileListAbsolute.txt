@@ -1,0 +1,16 @@
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\bin\Debug\net8.0-windows\Deney_2.exe
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\bin\Debug\net8.0-windows\Deney_2.deps.json
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\bin\Debug\net8.0-windows\Deney_2.runtimeconfig.json
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\bin\Debug\net8.0-windows\Deney_2.dll
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\bin\Debug\net8.0-windows\Deney_2.pdb
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\obj\Debug\net8.0-windows\Deney_2.Form1.resources
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\obj\Debug\net8.0-windows\Deney_2.csproj.GenerateResource.cache
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\obj\Debug\net8.0-windows\Deney_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\obj\Debug\net8.0-windows\Deney_2.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\obj\Debug\net8.0-windows\Deney_2.AssemblyInfo.cs
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\obj\Debug\net8.0-windows\Deney_2.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\obj\Debug\net8.0-windows\Deney_2.dll
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\obj\Debug\net8.0-windows\refint\Deney_2.dll
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\obj\Debug\net8.0-windows\Deney_2.pdb
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\obj\Debug\net8.0-windows\Deney_2.genruntimeconfig.cache
+C:\Users\sahin\Desktop\234410207\Deney_2\Deney_2\obj\Debug\net8.0-windows\ref\Deney_2.dll

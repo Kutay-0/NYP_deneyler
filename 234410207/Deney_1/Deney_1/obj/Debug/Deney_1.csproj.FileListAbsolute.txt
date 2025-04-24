@@ -1,0 +1,10 @@
+C:\Users\sahin\Desktop\234410207\Deney_1\Deney_1\bin\Debug\Deney_1.exe.config
+C:\Users\sahin\Desktop\234410207\Deney_1\Deney_1\bin\Debug\Deney_1.exe
+C:\Users\sahin\Desktop\234410207\Deney_1\Deney_1\bin\Debug\Deney_1.pdb
+C:\Users\sahin\Desktop\234410207\Deney_1\Deney_1\obj\Debug\Deney_1.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\234410207\Deney_1\Deney_1\obj\Debug\Deney_1.Form1.resources
+C:\Users\sahin\Desktop\234410207\Deney_1\Deney_1\obj\Debug\Deney_1.Properties.Resources.resources
+C:\Users\sahin\Desktop\234410207\Deney_1\Deney_1\obj\Debug\Deney_1.csproj.GenerateResource.cache
+C:\Users\sahin\Desktop\234410207\Deney_1\Deney_1\obj\Debug\Deney_1.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\234410207\Deney_1\Deney_1\obj\Debug\Deney_1.exe
+C:\Users\sahin\Desktop\234410207\Deney_1\Deney_1\obj\Debug\Deney_1.pdb
